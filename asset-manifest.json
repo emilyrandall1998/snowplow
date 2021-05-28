@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snowplow/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/snowplow/static/js/main.7d9d0954.chunk.js",
+    "main.js.map": "/snowplow/static/js/main.7d9d0954.chunk.js.map",
+    "runtime-main.js": "/snowplow/static/js/runtime-main.f5506f48.js",
+    "runtime-main.js.map": "/snowplow/static/js/runtime-main.f5506f48.js.map",
+    "static/js/2.92869612.chunk.js": "/snowplow/static/js/2.92869612.chunk.js",
+    "static/js/2.92869612.chunk.js.map": "/snowplow/static/js/2.92869612.chunk.js.map",
+    "static/js/3.9fabcfb3.chunk.js": "/snowplow/static/js/3.9fabcfb3.chunk.js",
+    "static/js/3.9fabcfb3.chunk.js.map": "/snowplow/static/js/3.9fabcfb3.chunk.js.map",
+    "index.html": "/snowplow/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/snowplow/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.92869612.chunk.js.LICENSE.txt": "/snowplow/static/js/2.92869612.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/snowplow/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5506f48.js",
+    "static/js/2.92869612.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7d9d0954.chunk.js"
+  ]
+}
