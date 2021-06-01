@@ -2,16 +2,16 @@ import React, { useState } from 'react';
 import './App.css';
 import Products from './Products';
 import Cart from './Cart';
-import { newTracker, enableActivityTracking, trackPageView } from "@snowplow/browser-tracker";
+// import { newTracker, enableActivityTracking, trackPageView } from "@snowplow/browser-tracker";
 
-newTracker('sp', '{{http://localhost:3000/snowplow}}', {
-  appId: 'snowplow',
-});
+// newTracker('sp', '{{http://localhost:3000/snowplow}}', {
+//   appId: 'snowplow',
+// });
 
-enableActivityTracking({
-minimumVisitLength: 30,
-heartbeatDelay: 10
-});
+// enableActivityTracking({
+// minimumVisitLength: 30,
+// heartbeatDelay: 10
+// });
 
 const PAGE_PRODUCTS = 'products';
 const PAGE_CART = 'cart';
@@ -31,7 +31,7 @@ function App() {
     );
   };
 
-  trackPageView();
+  // trackPageView();
 
   return (
     <div className="App">
